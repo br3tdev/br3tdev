@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Bret Mwenda</h1>
 <h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/yebIrQaY9wFR7Fy1eb" />
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/yebIrQaY9wFR7Fy1eb](https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" />
 
 <p align="left">
   <a href="https://twitter.com/bret.4tl" target="blank"
@@ -292,18 +292,8 @@
   </a>
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=br3tdev&show_icons=true&locale=en&layout=compact"
-    alt="br3tdev"
-  />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=br3tdev&show_icons=true&locale=en&layout=compact" alt="br3tdev" /></p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=br3tdev&"
-    alt="br3tdev"
-  />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=br3tdev&show_icons=true&locale=en" alt="br3tdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=br3tdev&" alt="br3tdev" /></p>
